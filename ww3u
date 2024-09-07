@@ -35,8 +35,7 @@ https://goal-th.com/ช่องรายการทีวี/?id=37&tv=PPTV
 #EXTVLCOPT:http-referer=https://goal-th.com/
 https://goal-th.com/ช่องรายการทีวี/?id=135&tv=TSports7
 
-
-
+#EXTINF:-1 group-logo="https://static.wikia.nocookie.net/logos/images/0/03/Cartoon_Kids.png/revision/latest?cb=20230225144747&path-prefix=vi",
 
 #EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1704038567.png" group-title="M3U LUXDO ช่องทีวีออนไลน์"  ,Animax | Singapore 
 #EXTVLCOPT:http-referer=https://goal-th.com/
